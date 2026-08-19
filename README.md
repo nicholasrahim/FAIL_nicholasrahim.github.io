@@ -1,4 +1,4 @@
-[Home](README.md) | [Ongoing Projects](projects.md) | [Publications](Publications.md) | [Teaching](Teaching.md)
+[Home](/) | [Ongoing Projects](/Projects) | [Publications](/Publications) | [Teaching](/Teaching)
 
 # Nicholas Errol Rahim
 
