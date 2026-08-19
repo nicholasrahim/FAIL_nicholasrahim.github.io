@@ -1,3 +1,5 @@
+[Home](README.md) | [Ongoing Projects](projects.md) | [Publications](Publications.md) | [Teaching](Teaching.md)
+
 # Nicholas Errol Rahim
 
 **PhD Candidate**  
