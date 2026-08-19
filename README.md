@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](/) | [Ongoing Projects](/Projects) | [Publications](/Publications) | [Teaching](/Teaching)
+[Home](/) | [Ongoing Projects](/Projects) | [Publications](/Publications) | [Teaching](/Teaching) | [CV](/CV)
 
 # Nicholas Errol Rahim
 
